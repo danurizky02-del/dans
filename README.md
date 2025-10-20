@@ -19,12 +19,12 @@ $ termux-setup-storage (klik ijinkan)
 $ pkg install curl -y
 $ pkg install php -y
 $ pkg install git -y
-$ git clone https://github.com/Kmb-id/TRI
+$ git clone https://github.com/danurizky02-del/dans
 ```
 
 <b> GO TO RUN (ada 2 versi): </b>
 ```
-$ cd TRI
+$ cd dans
 $ php dor.php (ATAU)
 $ php V.2025.php
 ```
